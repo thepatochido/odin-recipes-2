@@ -1,0 +1,1 @@
+This current project is about demonstrating the HTML knowledge I have so far, in a website which consists of a main index page which will have links to a few recipes.
