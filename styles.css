@@ -1,0 +1,28 @@
+h1 {
+    background-color: red;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#mainpage{
+    text-align: center;
+    font-size: 30px;
+    background-color: cornsilk;
+    color: white;
+}
+
+#cerealito{
+    background-color: azure;
+}
+
+#imgcerealito{
+    height:auto;
+    width: 200px;
+}
+
+img {
+    height:auto;
+    width: 200px;
+}
