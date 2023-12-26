@@ -20,12 +20,14 @@
 #mainpage{
     text-align: center;
     font-size: 30px;
-    background-color: cornsilk;
-    color: white;
+    background-color: rgb(97, 97, 246);
+    border: 10px dotted #ec7e00;
+    padding: 10px;
+    margin: 30px;
 }
 
 #cerealito{
-    background-color: azure;
+    background-color: #0696b2;
 }
 
 #imgcerealito{
@@ -33,7 +35,7 @@
     width: 200px;
     display: inline-block;
     margin: auto 40px;
-    border: 4px dotted green;
+    border: 8px dotted rgb(106, 4, 58);
     padding: 3px;
 }
 
@@ -48,9 +50,14 @@ img {
     height: auto;
     width: 400px;
     margin: 20px auto;
+    padding: 15px;
     background-color: whitesmoke;
 }
 
 .cerealContent {
     display: inline-block;
+}
+
+.subtitle {
+    text-align: center;
 }
